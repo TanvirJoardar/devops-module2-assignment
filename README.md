@@ -21,3 +21,7 @@ DevOps Assignment - Module 2
 - Understand branching and merging strategies
 - Deploy applications to cloud platforms
 - Document deployment processes
+
+
+## Added Feature Branch
+- Edit the README.md file to verify the changes
